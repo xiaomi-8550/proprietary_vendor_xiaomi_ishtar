@@ -673,7 +673,7 @@
         },
         {
             "ApkFunctionType":"DisablePrivatePort",
-            "ApkTable" :["com.instagram.android"]
+            "ApkTable" :[""]
         },
         {
             "ApkFunctionType":"DisableGpuRotation",
