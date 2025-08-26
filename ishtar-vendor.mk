@@ -1016,7 +1016,7 @@ PRODUCT_PACKAGES += \
     libQ6MSFR_manager_skel \
     libQnnHtpV73 \
     libQnnHtpV73Skel \
-    libQnnSaver \
+    libQnnSaver_adsp \
     libSnpeDspV65Skel \
     libSnpeDspV66Skel \
     libSnpeHtpV68Skel \
